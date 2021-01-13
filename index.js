@@ -41,8 +41,8 @@ const questions = [
     },
     {
         type: 'input',
-        message: 'Where can you be contacted with any questions?',
-        name: 'questions'
+        message: 'What is your email address?',
+        name: 'email'
     },
     {
         type: 'input',

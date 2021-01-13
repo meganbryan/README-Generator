@@ -30,7 +30,7 @@ function generateMarkdown(data) {
   ### ${data.tests}
 
   ## Questions <a name="questions"></a>
-  ### ${data.questions}
+  ### [Click here to email me.](mailto:${data.email})
 
   ## Link to Deployed Application: 
   ### [${data.URLName}](${data.URL}) <a name="link"></a>
