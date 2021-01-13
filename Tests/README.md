@@ -1,8 +1,6 @@
-// function to generate markdown for README
-function generateMarkdown(data) {
-  return `# ${data.title}
+# Test 2
   ## Description
-  ###   ${data.description}
+  ###   This is a secondary test.
   
   ## Table of Contents
     1. [Installation](#installation)
@@ -15,27 +13,23 @@ function generateMarkdown(data) {
     8. [Screenshot of Application](#screenshot)
 
   ## Installation <a name="installation"></a>
-  ### ${data.installation}
+  ### Info here
 
   ## Usage <a name="usage"></a>
-  ### ${data.usage}
+  ### Info here
 
   ## License <a name="license"></a>
-  ### ${data.License}
+  ### MIT
 
   ## Contributing <a name="contributing"></a>
-  ### ${data.contributing}
+  ### None
 
   ## Tests <a name="tests"></a>
-  ### ${data.tests}
+  ### This
 
   ## Questions <a name="questions"></a>
-  ### [Click here to email me.](mailto:${data.email})
+  ### [Click here to email me.](mailto:meganmbryan12@gmail.com)
 
   ## Link to Deployed Application: 
-  ### [${data.URLName}](${data.URL}) <a name="link"></a>
-  ## ![${data.altText}](${data.photoFile}) <a name="screenshot"></a>
-`;
-}
-
-module.exports = generateMarkdown;
+  ### [Not Applicable](Not Applicable) <a name="link"></a>
+  ## ![Screenshot of a terminal running node](README_SS.jpeg) <a name="screenshot"></a>
