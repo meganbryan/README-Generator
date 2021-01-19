@@ -28,8 +28,9 @@
   ### None
 
   ## Questions <a name="questions"></a>
-  ### [Click here to email me.](mailto:Meganmbryan12@gmail.com)
+  ### [Click here to visit my GitHub.](https://github.com/meganbryan)
+  ### [Click here to email me.](mailto:meganmbryan12@gmail.com)
 
   ## Link to Deployed Application: 
   ### [Sample URL](URL) <a name="link"></a>
-  ## ![Screenshot Alt Text](Screenshot here) <a name="screenshot"></a>
+  ## ![Screenshot Alt Text](README_SS.jpeg) <a name="screenshot"></a>

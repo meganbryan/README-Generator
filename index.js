@@ -41,6 +41,11 @@ const questions = [
     },
     {
         type: 'input',
+        message: 'What is your GitHub username?',
+        name: 'github'
+    },
+    {
+        type: 'input',
         message: 'What is your email address?',
         name: 'email'
     },
@@ -79,7 +84,7 @@ function init() {
     .prompt(questions)
     .then((answers) => {
         const markdownText = generateMarkdown(answers)
-        writeToFile("README.md", markdownText);
+        writeToFile("./SampleREADME/README.md", markdownText);
     })
     .catch(error => {
         if(error) {
