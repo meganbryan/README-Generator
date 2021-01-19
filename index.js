@@ -84,8 +84,6 @@ function init() {
     .catch(error => {
         if(error) {
             console.error(error)
-        } else {
-            console.log('Commit logged!')
         }
     })
 }

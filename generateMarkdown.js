@@ -2,7 +2,7 @@
 function generateMarkdown(data) {
   return `# ${data.title}
   ## Description
-  ###   ${data.description}
+  ### ${data.description}
   
   ## Table of Contents
     1. [Installation](#installation)
