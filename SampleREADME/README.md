@@ -1,6 +1,6 @@
-# Test 2
+# Sample Title
   ## Description
-  ###   This is a secondary test.
+  ### Sample Description
   
   ## Table of Contents
     1. [Installation](#installation)
@@ -13,10 +13,10 @@
     8. [Screenshot of Application](#screenshot)
 
   ## Installation <a name="installation"></a>
-  ### Info here
+  ### Sample Installation Info
 
   ## Usage <a name="usage"></a>
-  ### Info here
+  ### Sample Instructions
 
   ## License <a name="license"></a>
   ### MIT
@@ -25,11 +25,11 @@
   ### None
 
   ## Tests <a name="tests"></a>
-  ### This
+  ### None
 
   ## Questions <a name="questions"></a>
-  ### [Click here to email me.](mailto:meganmbryan12@gmail.com)
+  ### [Click here to email me.](mailto:Meganmbryan12@gmail.com)
 
   ## Link to Deployed Application: 
-  ### [Not Applicable](Not Applicable) <a name="link"></a>
-  ## ![Screenshot of a terminal running node](README_SS.jpeg) <a name="screenshot"></a>
+  ### [Sample URL](URL) <a name="link"></a>
+  ## ![Screenshot Alt Text](Screenshot here) <a name="screenshot"></a>
